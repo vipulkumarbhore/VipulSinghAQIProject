@@ -5,7 +5,7 @@ Find the AQI index of any city with its all different stations.
 About Poject:--
 Frontend is made with (HTML/CSS).
 Backend part that is Api integration & fetch part made with (PHP).
-API key :- (32242342824e6b4c038474a3477962a65b4e1fde)
+My API key :- (32242342824e6b4c038474a3477962a65b4e1fde)
 Used API :- ( https://aqicn.org/api/)
 
 #Heading3
