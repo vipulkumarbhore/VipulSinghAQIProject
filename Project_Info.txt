@@ -1,0 +1,36 @@
+About Poject:--
+Frontend is made with (HTML/CSS).
+Backend part that is Api integration & fetch part made with (PHP).
+API key :- (32242342824e6b4c038474a3477962a65b4e1fde)
+Used API :- ( https://aqicn.org/api/)
+
+Note:-(Color shows the quality of air.)
+ Green = good air quality ,
+ Yellow = modrate air quality,
+ Orange = Unhealthy for Sensitive Groups,
+ Red = Unhealthy,
+ Purple = Very Unhealthy,
+ Marron = Hazardous
+
+How to run.......
+
+-->Way-1 (With installation of eigther wampp or xampp)
+
+To run we have enable php server/apache server using eigther "XAMPP" or "WAMPP" server.
+So we have to download & install in pc eigther "XAMPP" or "WAMPP" server.
+Add the path of php in path of edit enviroment varible.
+
+1.Open the entire folder in any IDE(example:- vscode).
+2.Open XAMPP OR WAMPP control panel & start apache server.
+3.Go to the url("localhost/aqi/") in any browser.
+4.The web page will be open & we ready.
+5. Now you enter any city name to get.
+
+--> Way-2 (Without installation of wampp or xampp)
+
+1.Open the entire folder in any IDE(example:- vscode).
+2.In vscode install php server by using extension that is present in vscode.
+3.Right click in (.php) file and click on (run php server).
+4.It will automatically open the web page in your default browser 
+using url(http://localhost:3000).
+5. Now you enter any city name to get.
